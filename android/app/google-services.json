@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697266053061",
+    "project_id": "messfamily-7d57a",
+    "storage_bucket": "messfamily-7d57a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697266053061:android:f231286f6cefc6d2a2b5ac",
+        "android_client_info": {
+          "package_name": "com.example.mess_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeq30pPVojX92HlSvXnaJJRKnDhbhdKVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
