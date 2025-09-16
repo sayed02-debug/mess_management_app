@@ -1,5 +1,7 @@
 Smart Mess Management System (SMMS) 📊
 
+
+
 Welcome to the Smart Mess Management System (SMMS) App! This is a Flutter-based mobile application designed as a mess marketplace, where users can discover, create, and manage messes (shared living accommodations) with advanced features. Whether you're searching for a mess, setting one up, or tracking financials and member details, SMMS has you covered. Built with a modern UI, Firebase integration, and interactive graphs, it offers a seamless and user-friendly experience. 🌟
 Features 🛠️
 
@@ -118,7 +120,7 @@ Push to GitHub: git push origin feature/your-feature-name.
 Open a Pull Request: Share your changes for review.
 Report Issues: Found a bug or have an idea? Open an issue on GitHub! 🚩
 
-Feel free to reach out with questions or suggestions—we’re a friendly team eager to collaborate! 😄
+Feel free to reach out with questions or suggestions—we’re a friendly team eager to collaborate!
 
 
 A big thank you to the Flutter community for the incredible framework.
@@ -127,11 +129,14 @@ Gratitude to all contributors who help shape SMMS into a better tool.
 
 
 
+
+
 Support 📧💼
 If you encounter issues or need assistance, don’t hesitate to:
 
 Open an issue on GitHub. 🚩
 Reach out via email at mdabusayedislam2@gmail.com 📧.
+
 Connect on LinkedIn at https://www.linkedin.com/in/sayed02/ 💼 for discussions.
 
-Let’s build a smarter mess management system together! 😄🚀
+Let’s build a smarter mess management system together! 🚀
