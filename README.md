@@ -143,11 +143,7 @@ git push origin feature/your-feature-name
 Open a Pull Request – Share your changes for review.
 
 👉 Found a bug or have an idea? Open an issue
- 🚩
-
-A big thanks to the Flutter community 💙
-Special appreciation to the xAI team for inspiration 🙌
-Gratitude to all contributors shaping SMMS into a smarter system. 🚀
+ 
 
 📧 Support
 
